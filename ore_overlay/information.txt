@@ -1,0 +1,5 @@
+
+- Deepslate ore textures are ever so slightly different to stone ore textures.
+  This is why there are two different overlays for each ore.
+
+- Nether Quartz ore overlay has red pixels in it to blend correctly with netherrack, adjust this if you're using it with anything non-netherrack.
